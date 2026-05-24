@@ -1,1 +1,12 @@
-# listam3u
+# Listas Stuard:
+
+- https://github.com/BrianRVP/lista.m3u
+- https://github.com/andentv/packcanales
+- https://github.com/nreyes0477/nreyes06
+- https://github.com/delmitv/lista-IPTV
+- https://github.com/iptv-org/iptv/tree/master/streams
+- https://github.com/luisms123/tdt
+- https://i.mjh.nz/PlutoTV/
+- https://www.energeek.cl/en-vivo
+- https://github.com/30332514/0
+- https://github.com/realfmtv
