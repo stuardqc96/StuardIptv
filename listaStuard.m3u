@@ -99,6 +99,9 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="dw-latino" tvg-logo="https://th.bing.com/th/id/OIP.w4-0o5aWcNkHF1fxYVr6aAAAAA?pid=ImgDet&rs=1" group-title="General",DW Latinoamerica
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
+#EXTINF:-1 tvg-id="la-1" tvg-logo="https://logos.streamsites.eu/2756_tve-en-directo-la-1_overview.png" group-title="General",La 1
+https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8?hdnts=exp%3D1772583318%7Ehmac%3D3fefc6dd26187da1fe2038622fa646e0fc2ffc48bdb29c9a14e4bd54975b3f3e&idasset=5190066
+
 #EXTINF:-1 tvg-id="karibeña" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
