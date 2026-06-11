@@ -105,8 +105,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-id="tv-mendoza" tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="General",Canal 9 Tele Vida Mendoza
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id=azteca7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Logo_Azteca_7_2011.svg" group-title="General", AZTECA 7
-http://45.5.119.43:4000/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="telefe" tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png" group-title="General",telefe
+http://200.115.120.1:8000/play/ca016/index.m3u8
 
 #EXTINF:-1 tvg-id="caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Caracol_Televisi%C3%B3n_logo.svg" group-title="General",CARACOL
 http://181.78.8.199:8000/play/a08s/index.m3u8
@@ -158,12 +158,6 @@ http://190.117.20.37:8000/play/a08c/index.m3u8
 
 #EXTINF:-1 tvg-id="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/330px-DSports.png" group-title="Sport",DSports
 http://147.135.114.221:8001/play/a00m/index.m3u8
-
-#EXTINF:-1 tvg-id="win+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Win%2B_F%C3%BAtbol_logo.svg" group-title="Sport",95-Win Sports +
-http://181.78.8.199:8000/play/a06v/index.m3u8
-
-#EXTINF:-1 tvg-id="tyc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" group-title="Sport",TyC Sports
-http://38.44.109.41:8003/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="DEPORTES", 158 | ESPN
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=3534410893&_cdn_token=1884d58e6acae25ab3c3c096cc4b3cefd5a2bc39
