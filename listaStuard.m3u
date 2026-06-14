@@ -30,6 +30,9 @@ https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 #EXTINF:-1 tvg-id="animextv" tvg-logo="https://i.ibb.co/fVdNPG7q/Logo-Anime-XTV.png" group-title="Animation",AnimeXTV
 http://animezonetv.net:81/live_hls/animetest/index.m3u8
 
+#EXTINF:-1 tvg-id="LaikaChannelSpain" tvg-logo="https://i.ibb.co/nqkqsK8Y/Letras-de-Laika-Channel-Espa-a.png" group-title="Animation",Laika Channel Spain
+https://live20.bozztv.com/giatvplayout7/giatv-209474/playlist.m3u8
+
 #EXTINF:-1 tvg-id="az-corazon" tvg-logo="https://th.bing.com/th/id/OIP.bynREnuCV5Cb6QrmrwLudwHaBy?rs=1&pid=ImgDetMain" group-title="Novelas",TV Azteca Corazon
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 
@@ -41,6 +44,9 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="novelisima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Novelisima_logo.png" group-title="Novelas",Novelísima
 https://pubads.g.doubleclick.net/ssai/event/8QpjAnHCQQqBxFVRdDQXCA/master.m3u8
+
+#EXTINF:-1 tvg-id="tele-novela" tvg-logo="https://zonecampus.ca/wp-content/uploads/2023/04/unnamed.jpg" group-title="Novelas",Telemundo Novelas Clásicas
+https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
 
 #EXTINF:-1 tvg-id="retroplus" tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="MovieSeries",Retro Plus TV 3 HD
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
@@ -102,14 +108,14 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="dw-latino" tvg-logo="https://th.bing.com/th/id/OIP.w4-0o5aWcNkHF1fxYVr6aAAAAA?pid=ImgDet&rs=1" group-title="General",DW Latinoamerica
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="tv-mendoza" tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="General",Canal 9 Tele Vida Mendoza
-https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="telefe" tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png" group-title="General",telefe
 http://200.115.120.1:8000/play/ca016/index.m3u8
 
 #EXTINF:-1 tvg-id="caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Caracol_Televisi%C3%B3n_logo.svg" group-title="General",CARACOL
 http://181.78.8.199:8000/play/a08s/index.m3u8
+
+#EXTINF:-1 tvg-id="chilevision" tvg-logo="https://assets.radioagricultura.cl/2025/09/foto_0000000220240424143502_imagen_2023-01-06_161610132.png" group-title="General",Chilevisión
+http://191.97.61.32:8000/play/a09k/index.m3u8
 
 #EXTINF:-1 tvg-id="karibeña" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
@@ -135,6 +141,9 @@ http://190.217.66.92:8000/play/a0eg/index.m3u8u?hls
 #EXTINF:-1 tvg-id="espn2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" group-title="Sport",ESPN 2
 http://38.199.4.105:9999/play/a0md/index.m3u8
 
+#EXTINF:-1 tvg-id="espn3" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Sport",ESPN 3 Sur América
+http://181.78.8.199:8000/play/a0b3/index.m3u8
+
 #EXTINF:-1 tvg-id="espn4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/250px-ESPN_4_logo.svg.png" group-title="Sport",ESPN 4
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN4/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN4_stream_jg&_cdn_session=3534411533&_cdn_token=6756f5b914b973227dc69f3c77cadf4418d4290f
 
@@ -158,6 +167,12 @@ http://190.117.20.37:8000/play/a08c/index.m3u8
 
 #EXTINF:-1 tvg-id="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/330px-DSports.png" group-title="Sport",DSports
 http://147.135.114.221:8001/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-id="tyc" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Sport",TyC Sports
+http://200.4.195.66:8000/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-id="win-sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/500px-Win_Sports_nuevo_logo.svg.png" group-title="General",Win Sports
+http://181.118.156.46:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="DEPORTES", 158 | ESPN
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=3534410893&_cdn_token=1884d58e6acae25ab3c3c096cc4b3cefd5a2bc39
