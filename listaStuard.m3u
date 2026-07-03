@@ -147,11 +147,20 @@ http://190.117.20.37:8000/play/a08c/index.m3u8
 #EXTINF:-1 tvg-id="dSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/330px-DSports.png" group-title="Sport",DSports
 http://177.10.184.193:8000/play/a0fc/index.m3u8
 
+#EXTINF:-1 tvg-id="dSportss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/330px-DSports.png" group-title="Sport",DSportss
+http://8.243.126.131:8000/play/a05a/index.m3u8
+
 #EXTINF:-1 tvg-id="win-sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/500px-Win_Sports_nuevo_logo.svg.png" group-title="Sport",Win Sports
 http://181.118.156.46:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="mundial" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Sport", Mundial
 https://s2.bufaloweb.com/bufalo9/index.m3u8
+
+#EXTINF:-1 tvg-id="tudn" tvg-logo="https://cablecaribecr.com/wp-content/uploads/2022/04/Canal-07.jpg" group-title="Sport",TUDN 
+http://45.228.233.222:8000/play/a04y
+
+#EXTINF:-1 tvg-id="tyc" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" group-title="Sport",TyC Sports
+http://38.252.215.33:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="DEPORTES", 158 | ESPN
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=3534410893&_cdn_token=1884d58e6acae25ab3c3c096cc4b3cefd5a2bc39
