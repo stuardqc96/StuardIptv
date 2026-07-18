@@ -18,9 +18,6 @@ https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 #EXTINF:-1 tvg-id="animesation" tvg-logo="https://i.postimg.cc/QdsDrDZH/Animestation-(Shein-Media-2005).png" group-title="Animation",Anime Station 
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="bitrme" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Animation",Bitme
-http://201.77.60.62:8002/play/a0nj/index.m3u8
-
 #EXTINF:-1 tvg-id="az-corazon" tvg-logo="https://th.bing.com/th/id/OIP.bynREnuCV5Cb6QrmrwLudwHaBy?rs=1&pid=ImgDetMain" group-title="Novelas",TV Azteca Corazon
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 
@@ -148,9 +145,6 @@ http://45.5.118.152:8000/play/a08x/index.m3u8
 http://190.117.20.37:8000/play/a08c/index.m3u8
 
 #EXTINF:-1 tvg-id="dSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/330px-DSports.png" group-title="Sport",DSports
-http://177.10.184.193:8000/play/a0fc/index.m3u8
-
-#EXTINF:-1 tvg-id="dSportss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/330px-DSports.png" group-title="Sport",DSportss
 http://8.243.126.131:8000/play/a05a/index.m3u8
 
 #EXTINF:-1 tvg-id="win-sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/500px-Win_Sports_nuevo_logo.svg.png" group-title="Sport",Win Sports
