@@ -145,7 +145,7 @@ http://45.5.118.152:8000/play/a08x/index.m3u8
 http://190.117.20.37:8000/play/a08c/index.m3u8
 
 #EXTINF:-1 tvg-id="dSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/330px-DSports.png" group-title="Sport",DSports
-http://8.243.126.131:8000/play/a05a/index.m3u8
+http://179.1.158.52:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="win-sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/500px-Win_Sports_nuevo_logo.svg.png" group-title="Sport",Win Sports
 http://181.118.156.46:8000/play/a05w/index.m3u8
