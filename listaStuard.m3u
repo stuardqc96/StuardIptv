@@ -42,8 +42,11 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3
 #EXTINF:-1 tvg-id="movie-series" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="MovieSeries",Wow Movies
 https://lbgo.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Latina-pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina
-https://tr-netcdn.bitel.com.pe/netcdn-live-3/bitel/Latina-UDP_abr/playlist.m3u8?timestamp=1787270430&wmkid=0&token=ec9f8abbac21c8d0a50c9a336f14d61a&manifestfilter=video_bitrate:1-10000000&uid=39364
+#EXTINF:-1 tvg-id="latina-pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina
+https://origin.dpsgo.com/ssai/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
+
+#EXTINF:-1 tvg-id="latina-cl" tvg-logo="https://static.wikia.nocookie.net/cholopedia/images/f/fa/Latina_Cl%C3%A1sicos_2024_2_%281%29.svg/revision/latest/scale-to-width-down/1200?cb=20250201223331&path-prefix=es" group-title="Peru",Latina Clasicos
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="americatv" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Peru",América TV
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=3771053363&_cdn_token=befe228261cfd848b1890320087af743c182d6a2
@@ -52,10 +55,10 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-ll-hls/live-media.m
 http://181.224.255.210:8001/play/a0r6/index.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru",ATV
-http://187.102.210.46/ATV/index.m3u8
+https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8
 
-#EXTINF:-1 tvg-id="atvmas.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Peru",ATV+ 
-http://179.60.51.134:8888/ATV/index.m3u8
+#EXTINF:-1 tvg-id="atvmas.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Peru",ATV+
+https://d26l0c7cli5gzs.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-id="globaltv" tvg-logo="https://th.bing.com/th/id/OIP.a_8b1cY7bTe6jh0eyCgSYAHaHN?rs=1&pid=ImgDetMain" group-title="Peru",Global TV
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
@@ -84,6 +87,9 @@ http://181.78.8.199:8000/play/a08s/index.m3u8
 #EXTINF:-1 tvg-id="chilevision" tvg-logo="https://assets.radioagricultura.cl/2025/09/foto_0000000220240424143502_imagen_2023-01-06_161610132.png" group-title="General",Chilevisión
 http://181.119.185.32:8000/play/a026/index.m3u8
 
+#EXTINF:-1 tvg-id="la1" tvg-logo="https://i.postimg.cc/nrYnZ2Xw/la1.png" group-title="General",La 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+
 #EXTINF:-1 tvg-id="karibeña" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
@@ -99,8 +105,11 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20241022T050442SQUARE.png" group-title="Sport" tvg-name="FIFA+",FIFA+
 https://f7ef8624.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c1NwYW5pc2hfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="esp-co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sport",ESPN CO
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sport",ESPN CO
 http://190.217.66.92:8000/play/a0eg/index.m3u8u?hls
+
+#EXTINF:-1 tvg-id="espn2" tvg-logo="https://i.postimg.cc/26c8xrVF/ESPN2.png" group-title="Sport",ESPN 2
+http://38.44.109.41:8003/play/a0h3/index.m3u8
 
 #EXTINF:-1 tvg-id="espn3" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Sport",ESPN 3 Sur América
 http://181.78.8.199:8000/play/a0b3/index.m3u8
