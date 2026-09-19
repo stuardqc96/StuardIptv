@@ -12,9 +12,6 @@ https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 #EXTINF:-1 tvg-id="max-anime" tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png" group-title="Animation",Max Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="ziiontv" tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Animation",Zioon TV
-https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
-
 #EXTINF:-1 tvg-id="az-corazon" tvg-logo="https://th.bing.com/th/id/OIP.bynREnuCV5Cb6QrmrwLudwHaBy?rs=1&pid=ImgDetMain" group-title="Novelas",TV Azteca Corazon
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 
@@ -90,15 +87,6 @@ http://181.119.185.32:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="la1" tvg-logo="https://i.postimg.cc/nrYnZ2Xw/la1.png" group-title="General",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="karibeña" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña
-https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="teleritmo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="Music",Teleritmo
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1 tvg-id="trace-latina" tvg-logo="https://th.bing.com/th/id/OIP.StHYEESlkCFAV6CGntxqJgHaDh?pid=ImgDet&rs=1" group-title="Music",Trace Latina
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.m3u8
-
 #EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://tvonlinegratis.es/wp-content/uploads/2021/09/Real-Madrid-tv-logo-1.png" group-title="Sport",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
@@ -108,9 +96,6 @@ https://f7ef8624.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sport",ESPN CO
 http://190.217.66.92:8000/play/a0eg/index.m3u8u?hls
 
-#EXTINF:-1 tvg-id="espn2" tvg-logo="https://i.postimg.cc/26c8xrVF/ESPN2.png" group-title="Sport",ESPN 2
-http://38.44.109.41:8003/play/a0h3/index.m3u8
-
 #EXTINF:-1 tvg-id="espn3" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Sport",ESPN 3 Sur América
 http://181.78.8.199:8000/play/a0b3/index.m3u8
 
@@ -119,9 +104,6 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN4/40-ll-hls/live-media.m3
 
 #EXTINF:-1 tvg-id="espn5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/250px-ESPN_5_logo.svg.png" group-title="Sport",ESPN 5
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN5/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN5_stream_t7&_cdn_session=3534411813&_cdn_token=e90396c923b38a788fe7cdbfadd84c1e077110dc
-
-#EXTINF:-1 tvg-id="espn-pre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Sport",ESPN Premium
-http://190.217.66.92:8000/play/a0pj/index.m3u8u?hls
 
 #EXTINF:-1 tvg-id="being-extra" tvg-logo="https://i.ibb.co/JRhbWQsV/Logo-Bein-Xtra-Espanol.png" group-title="Sport",Bein Xtra Espanol HD
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
