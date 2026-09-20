@@ -97,13 +97,16 @@ https://f7ef8624.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 http://190.217.66.92:8000/play/a0eg/index.m3u8u?hls
 
 #EXTINF:-1 tvg-id="espn3" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Sport",ESPN 3 Sur América
-http://181.78.8.199:8000/play/a0b3/index.m3u8
-
-#EXTINF:-1 tvg-id="espn4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/250px-ESPN_4_logo.svg.png" group-title="Sport",ESPN 4
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN4/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN4_stream_jg&_cdn_session=3534411533&_cdn_token=6756f5b914b973227dc69f3c77cadf4418d4290f
+http://45.188.229.33:8000/play/a1az/index.m3u8
 
 #EXTINF:-1 tvg-id="espn5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/250px-ESPN_5_logo.svg.png" group-title="Sport",ESPN 5
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN5/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN5_stream_t7&_cdn_session=3534411813&_cdn_token=e90396c923b38a788fe7cdbfadd84c1e077110dc
+
+#EXTINF:-1 tvg-id="espn-de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Sport",Espn Deportes 🇺🇸
+http://195.178.110.110/espndeportes/index.m3u8
+
+#EXTINF:-1 tvg-id="sky-laliga" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/h9OCXbr5oxWUtzWfFKK6k/79e17bde30cd94da2c6a90ad046d4f61/sports-plat.jpg" group-title="Sport",Sky Sports La Liga
+http://186.33.61.182:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 tvg-id="being-extra" tvg-logo="https://i.ibb.co/JRhbWQsV/Logo-Bein-Xtra-Espanol.png" group-title="Sport",Bein Xtra Espanol HD
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
