@@ -84,8 +84,8 @@ http://181.78.8.199:8000/play/a08s/index.m3u8
 #EXTINF:-1 tvg-id="chilevision" tvg-logo="https://assets.radioagricultura.cl/2025/09/foto_0000000220240424143502_imagen_2023-01-06_161610132.png" group-title="General",Chilevisión
 http://181.119.185.32:8000/play/a026/index.m3u8
 
-#EXTINF:-1 tvg-id="la1" tvg-logo="https://i.postimg.cc/nrYnZ2Xw/la1.png" group-title="General",La 1
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="General",Telefe
+http://195.178.110.110/telefe/index.m3u8
 
 #EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://tvonlinegratis.es/wp-content/uploads/2021/09/Real-Madrid-tv-logo-1.png" group-title="Sport",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
@@ -93,11 +93,26 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20241022T050442SQUARE.png" group-title="Sport" tvg-name="FIFA+",FIFA+
 https://f7ef8624.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c1NwYW5pc2hfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sport",ESPN
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Sport",ESPN
 http://45.188.229.33:8000/play/a1az/index.m3u8
 
-#EXTINF:-1 tvg-id="espn5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/250px-ESPN_5_logo.svg.png" group-title="Sport",ESPN 5
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN5/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN5_stream_t7&_cdn_session=3534411813&_cdn_token=e90396c923b38a788fe7cdbfadd84c1e077110dc
+#EXTINF:-1 tvg-id="espn2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2
+http://181.78.8.199:8000/play/a08z/index.m3u8
+
+#EXTINF:-1 tvg-id="espn3" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3
+http://181.78.8.199:8000/play/a0b3/index.m3u8
+
+#EXTINF:-1 tvg-id="espn4" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4
+http://181.78.8.199:8000/play/a0do/index.m3u8
+
+#EXTINF:-1 tvg-id="espn5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN 5
+http://181.78.8.199:8000/play/a08n/index.m3u8
+
+#EXTINF:-1 tvg-id="espn6" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="Deportes",ESPN 6
+http://181.78.8.199:8000/play/a07g/index.m3u8
+
+#EXTINF:-1 tvg-id="espn-sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Sport",Espn Deportes 🇺🇸
+http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/595818.ts
 
 #EXTINF:-1 tvg-id="sky-laliga" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/h9OCXbr5oxWUtzWfFKK6k/79e17bde30cd94da2c6a90ad046d4f61/sports-plat.jpg" group-title="Sport",Sky Sports La Liga
 http://186.33.61.182:8000/play/a05q/index.m3u8
