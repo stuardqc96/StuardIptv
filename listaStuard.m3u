@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="animakids" tvg-logo="https://pbs.twimg.com/media/GyxAkNKWYAEnOBN?format=png&name=240x240" group-title="Animation",Anima Kids
 https://live-evg8.tv360.bitel.com.pe/bitel/animakids/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dball-super" tvg-logo="https://imgur.com/aXXpP4Q.png" group-title="Animation",Dragon Ball Super
-https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Gokutv" tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg" group-title="Animation",Goku Tv
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
@@ -52,10 +49,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-ll-hls/live-media.m
 http://181.224.255.210:8001/play/a0r6/index.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru",ATV
-https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8
-
-#EXTINF:-1 tvg-id="atvmas.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Peru",ATV+
-https://d26l0c7cli5gzs.cloudfront.net/ts:abr.m3u8
+https://ddycmnicl95kp.cloudfront.net/live/1wk5g7itgjof/master.m3u8
 
 #EXTINF:-1 tvg-id="globaltv" tvg-logo="https://th.bing.com/th/id/OIP.a_8b1cY7bTe6jh0eyCgSYAHaHN?rs=1&pid=ImgDetMain" group-title="Peru",Global TV
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
@@ -66,14 +60,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="exitosa-tv" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Peru",Exitosa TV
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 
-#EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="Peru",Señal Perú TV
-https://livestream.perucast.com/low/stream.m3u8
-
 #EXTINF:-1 tvg-id="Telelima" tvg-logo="https://pbs.twimg.com/media/FwOtdL0XoAAV01H?format=png&name=small" group-title="Peru",Tele Lima
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
-
-#EXTINF:-1 tvg-id="neotv" tvg-logo="https://live.neotv.mk/img/neoTv.png" group-title="General",Neo TV 
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-id="dw-latino" tvg-logo="https://th.bing.com/th/id/OIP.w4-0o5aWcNkHF1fxYVr6aAAAAA?pid=ImgDet&rs=1" group-title="General",DW Latinoamerica
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
@@ -84,26 +72,17 @@ http://181.78.8.199:8000/play/a08s/index.m3u8
 #EXTINF:-1 tvg-id="chilevision" tvg-logo="https://assets.radioagricultura.cl/2025/09/foto_0000000220240424143502_imagen_2023-01-06_161610132.png" group-title="General",Chilevisión
 http://181.119.185.32:8000/play/a026/index.m3u8
 
-#EXTINF:-1 tvg-id="telefe" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="General",Telefe
-http://195.178.110.110/telefe/index.m3u8
-
 #EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://tvonlinegratis.es/wp-content/uploads/2021/09/Real-Madrid-tv-logo-1.png" group-title="Sport",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20241022T050442SQUARE.png" group-title="Sport" tvg-name="FIFA+",FIFA+
 https://f7ef8624.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c1NwYW5pc2hfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Sport",ESPN
-http://45.188.229.33:8000/play/a1az/index.m3u8
-
 #EXTINF:-1 tvg-id="espn2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Deportes",ESPN 2
 http://181.78.8.199:8000/play/a08z/index.m3u8
 
 #EXTINF:-1 tvg-id="espn3" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Deportes",ESPN 3
 http://181.78.8.199:8000/play/a0b3/index.m3u8
-
-#EXTINF:-1 tvg-id="espn4" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",ESPN 4
-http://181.78.8.199:8000/play/a0do/index.m3u8
 
 #EXTINF:-1 tvg-id="espn5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Deportes",ESPN 5
 http://181.78.8.199:8000/play/a08n/index.m3u8
@@ -113,9 +92,6 @@ http://181.78.8.199:8000/play/a07g/index.m3u8
 
 #EXTINF:-1 tvg-id="espn-sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Sport",Espn Deportes 🇺🇸
 http://weibplus.is:80/live/ArguedasJuan34/VCp8GFFeJ5/595818.ts
-
-#EXTINF:-1 tvg-id="sky-laliga" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/h9OCXbr5oxWUtzWfFKK6k/79e17bde30cd94da2c6a90ad046d4f61/sports-plat.jpg" group-title="Sport",Sky Sports La Liga
-http://186.33.61.182:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 tvg-id="being-extra" tvg-logo="https://i.ibb.co/JRhbWQsV/Logo-Bein-Xtra-Espanol.png" group-title="Sport",Bein Xtra Espanol HD
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
