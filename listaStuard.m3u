@@ -102,6 +102,9 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20241022T050442SQUARE.png" group-title="Sport" tvg-name="FIFA+",FIFA+
 https://f7ef8624.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c1NwYW5pc2hfSExT/playlist.m3u8
 
+#EXTINF:-1 tvg-id="espnx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sport",ESPN HD
+http://190.61.101.11:7050/play/a09k/index.m3u8?hls
+
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Sport",ESPN
 http://190.93.224.42/ESPN/index.m3u8
 
@@ -114,8 +117,11 @@ http://190.93.224.42/ESPN-3/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/1tyWsZRF/ESPN4.png" group-title="Sport",ESPN 4
 http://190.93.224.42/ESPN-4/index.m3u8
 
-#EXTINF:-1 tvg-id="epn-pre" tvg-logo="https://www.multifibra.ar/wp-content/uploads/2023/11/IMG_espn-1.png" group-title="Sport",ESPN PREMIUM HD
+#EXTINF:-1 tvg-id="espn-pre" tvg-logo="https://www.multifibra.ar/wp-content/uploads/2023/11/IMG_espn-1.png" group-title="Sport",ESPN PREMIUM HD
 http://181.205.130.194:4000/play/a0fk
+
+#EXTINF:-1 tvg-id="espn-prex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Sport",ESPN Premium
+http://205.235.6.29:8000/play/a0wl/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="being-extra" tvg-logo="https://i.ibb.co/JRhbWQsV/Logo-Bein-Xtra-Espanol.png" group-title="Sport",Bein Xtra Espanol HD
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
