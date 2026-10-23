@@ -117,10 +117,7 @@ http://190.93.224.42/ESPN-3/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/1tyWsZRF/ESPN4.png" group-title="Sport",ESPN 4
 http://190.93.224.42/ESPN-4/index.m3u8
 
-#EXTINF:-1 tvg-id="espn-pre" tvg-logo="https://www.multifibra.ar/wp-content/uploads/2023/11/IMG_espn-1.png" group-title="Sport",ESPN PREMIUM HD
-http://181.205.130.194:4000/play/a0fk
-
-#EXTINF:-1 tvg-id="espn-prex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Sport",ESPN Premium
+#EXTINF:-1 tvg-id="espn-pre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Sport",ESPN Premium
 http://205.235.6.29:8000/play/a0wl/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="being-extra" tvg-logo="https://i.ibb.co/JRhbWQsV/Logo-Bein-Xtra-Espanol.png" group-title="Sport",Bein Xtra Espanol HD
