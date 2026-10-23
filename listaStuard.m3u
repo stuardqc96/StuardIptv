@@ -87,12 +87,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-id="caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Caracol_Televisi%C3%B3n_logo.svg" group-title="General",CARACOL
 http://181.78.8.199:8000/play/a08s/index.m3u8
 
-#EXTINF:-1 tvg-id="chilevision" tvg-logo="https://assets.radioagricultura.cl/2025/09/foto_0000000220240424143502_imagen_2023-01-06_161610132.png" group-title="General",Chilevisión
-http://181.119.185.32:8000/play/a026/index.m3u8
-
-#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Televisi%C3%B3n_Federal_Logo.svg/250px-Televisi%C3%B3n_Federal_Logo.svg.png" group-title="General",Telefe
-http://45.188.229.33:8000/play/a1dm/index.m3u8
-
 #EXTINF:-1 tvg-id="la1" tvg-logo="https://i.ibb.co/9TLg8Dw/Logo-La-1-HD.png" group-title="General",La 1 HD (geobloqueo)
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 
