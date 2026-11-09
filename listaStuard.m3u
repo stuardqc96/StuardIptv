@@ -3,17 +3,11 @@
 #EXTINF:-1 tvg-id="animakids" tvg-logo="https://pbs.twimg.com/media/GyxAkNKWYAEnOBN?format=png&name=240x240" group-title="Animation",Anima Kids
 https://live-evg8.tv360.bitel.com.pe/bitel/animakids/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Gokutv" tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg" group-title="Animation",Goku Tv
-https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
-
 #EXTINF:-1 tvg-id="max-anime" tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png" group-title="Animation",Max Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Janimotion" tvg-logo="https://i.ibb.co/chkybmzX/Janimotion.png" group-title="Animation",Janimotion
 https://janimotion.com/hls/janimotion/index.m3u8
-
-#EXTINF:-1 tvg-id="Zyoon Tv" tvg-logo="https://static.wixstatic.com/media/b22f37_7e1ad23da568470192dd27b54b845681%7Emv2.jpg" group-title="Animation",Zyoon TV
-https://live20.bozztv.com/akamaissh101/ssh101/onlinezyoontv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="az-corazon" tvg-logo="https://th.bing.com/th/id/OIP.bynREnuCV5Cb6QrmrwLudwHaBy?rs=1&pid=ImgDetMain" group-title="Novelas",TV Azteca Corazon
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
@@ -38,9 +32,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mundo-series" tvg-logo="https://i.ibb.co/gLXM64Zm/Mundo-series.png" group-title="MovieSeries",Mundo Series
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
-
-#EXTINF:-1 tvg-id="movie-series" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="MovieSeries",Wow Movies
-https://lbgo.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BayresTV" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="MovieSeries",Bayres TV
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
@@ -131,9 +122,6 @@ http://190.117.20.37:8000/play/a08c/index.m3u8
 
 #EXTINF:-1 tvg-id="dSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/330px-DSports.png" group-title="Sport",DSports
 http://179.1.158.52:8000/play/a05w/index.m3u8
-
-#EXTINF:-1 tvg-id="dsportsx" tvg-logo="https://www.tecnogus.com.co/wp-content/uploads/2025/05/DSPORTS.jpg" group-title="Sport",DSports
-http://45.186.254.75:8000/play/a0en/index.m3u8
 
 #EXTINF:-1 tvg-id="win-sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/500px-Win_Sports_nuevo_logo.svg.png" group-title="Sport",Win Sports
 http://181.118.156.46:8000/play/a05w/index.m3u8
